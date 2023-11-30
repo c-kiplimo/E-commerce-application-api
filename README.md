@@ -1,3 +1,2 @@
 ## Eccommerce
-
-# Eceommerce application 
+# Eceommerce application to experiment implement of Stripe Payment
