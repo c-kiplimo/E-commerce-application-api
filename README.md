@@ -7,7 +7,7 @@ This repository contains a simple e-commerce application developed to experiment
 The project follows a standard Spring Boot project structure:
 
 - **src/main/java**: Contains the main Java source code.
-  - **com.example.ecommerce**: Root package for the application.
+  - **com.practice.ecommerce**: Root package for the application.
     - **config**: Configuration classes for Stripe and other settings.
     - **controller**: RESTful controllers for handling payment-related endpoints.
     - **model**: Entity classes representing data structures.
